@@ -5,6 +5,6 @@ Here is the mapping of the redshift SQL function to Spark SQL function
 
 | Redshift function        | Spark function           | Comments  |
 | ------------- |:-------------:| -----:|
-| replace     | translate | Oracle also uses translate |
+| [REPLACE](http://docs.aws.amazon.com/redshift/latest/dg/r_REPLACE.html)     | translate | Oracle also uses translate |
 | function 2     | TBD      |    |
 | function 3| TBD     |    |
