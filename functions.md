@@ -3,3 +3,8 @@ SQL written against Redshift database may use some functions that are only suppo
 
 Here is the mapping of the redshift SQL function to Spark SQL function
 
+| Redshift function        | Spark function           | Comments  |
+| ------------- |:-------------:| -----:|
+| replace     | translate | Oracle also uses translate |
+| function 2     | TBD      |    |
+| function 3| TBD     |    |
